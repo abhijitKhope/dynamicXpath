@@ -13,6 +13,7 @@ public class A {
 	public static void main(String[] args) {
 		A a=new A();
 		a.m1();
+		System.out.println("m1 method xpath1 branch");
 	}
 
 }
